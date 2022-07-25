@@ -7,7 +7,6 @@ Release framework of WebRTC Android Project
 <p>
     <img alt="Gradle platforms" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
     <img alt="Gradle" src="https://img.shields.io/jitpack/v/github/OrionInnovationTRTech/OIWebRTC-Android?color=green&label=Gradle&logo=gradle&style=for-the-badge">
-    <img alt="License" src="https://img.shields.io/github/license/OrionInnovationTRTech/OIWebRTC-Android?style=for-the-badge">
 </p>
 
 ## Install
