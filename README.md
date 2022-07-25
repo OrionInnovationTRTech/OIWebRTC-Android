@@ -1,9 +1,11 @@
+<p align="center">
+  <img src="OIWebRTC/OIWebRTCLogo.png?raw=true" />
+</p>
+
 # OIWebRTC Public Release
 Release framework of WebRTC Android Project
 
-
 # OIWebRTC
-![Alt text](OIWebRTC.png?raw=true "OIWEbRTC")
 
 <p>
     <img alt="Gradle platforms" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
