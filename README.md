@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="OIWebRTC/OIWebRTCLogo.png?raw=true" />
+  <img src="OIWebRTCLogo.png?raw=true" />
 </p>
 
 # WebRTC Public Release
