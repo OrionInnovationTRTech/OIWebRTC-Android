@@ -28,8 +28,10 @@ android {
 }
 
 dependencies {
-
-    implementation project(path: ':OIWebRTC')
+    // Use project version of OIWebRTC for debug version
+    debugImplementation project(path: ':OIWebRTC')
+    // Use production version of OIWebRTC for release version
+    releaseImplementation 'com.github.OrionInnovationTRTech:OIWebRTC-Android:0.99.0'
 
     implementation 'androidx.appcompat:appcompat:1.4.2'
     implementation 'com.google.android.material:material:1.6.1'
