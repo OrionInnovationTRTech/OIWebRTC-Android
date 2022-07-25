@@ -18,7 +18,7 @@ Release framework of WebRTC Android Project
 
 To add OIWebRTC to your project first add the jitpack URL to your root level settings.gradle
 
-```
+```groovy
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
@@ -36,7 +36,7 @@ dependencyResolutionManagement {
 
 Add the OIWebRTC Dependency to your app level build.gradle.
 
-```
+```groovy
 dependencies {
 	 implementation 'com.github.OrionInnovationTRTech:OIWebRTC-Android:Tag'
 }
