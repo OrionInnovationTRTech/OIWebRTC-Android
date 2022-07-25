@@ -2,7 +2,7 @@
   <img src="OIWebRTC/OIWebRTCLogo.png?raw=true" />
 </p>
 
-# OIWebRTC Public Release
+# WebRTC Public Release
 Release framework of WebRTC Android Project
 
 # OIWebRTC
