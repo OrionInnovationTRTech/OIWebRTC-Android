@@ -127,7 +127,7 @@ public class EncodedImage implements RefCounted {
     private int encodedWidth;
     private int encodedHeight;
     private long captureTimeNs;
-    private FrameType frameType;
+    private EncodedImage.FrameType frameType;
     private int rotation;
     private @Nullable Integer qp;
 
@@ -160,7 +160,7 @@ public class EncodedImage implements RefCounted {
       return this;
     }
 
-    public Builder setFrameType(FrameType frameType) {
+    public Builder setFrameType(EncodedImage.FrameType frameType) {
       this.frameType = frameType;
       return this;
     }

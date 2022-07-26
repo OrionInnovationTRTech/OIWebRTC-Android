@@ -16,6 +16,8 @@ cp -r src/sdk/android/src/java/org OUT/Java
 cp -r src/rtc_base/java/src/org OUT/Java
 cp -r src/modules/audio_device/android/java/src/org OUT/Java
 cp -r src/out_arm64/Release/gen/sdk/android/peerconnection_java/generated_java/input_srcjars/org OUT/Java
+cp -r src/out_arm64/Release/gen/sdk/android/video_api_java/generated_java/input_srcjars/org OUT/Java
+
 
 ## Copy lib files
 cp -r libs OUT/Libs

@@ -83,7 +83,7 @@ public class WebRtcAudioRecord {
 
   /**
    * Contains audio sample information. Object is passed using {@link
-   * WebRtcAudioRecordSamplesReadyCallback}
+   * WebRtcAudioRecord.WebRtcAudioRecordSamplesReadyCallback}
    */
   public static class AudioSamples {
     /** See {@link AudioRecord#getAudioFormat()} */

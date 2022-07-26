@@ -234,7 +234,7 @@ abstract class CameraCapturer implements CameraVideoCapturer {
 
   @Override
   public void initialize(SurfaceTextureHelper surfaceTextureHelper, Context applicationContext,
-                         com.orioninnovation.tr.oiwebrtc.CapturerObserver capturerObserver) {
+      com.orioninnovation.tr.oiwebrtc.CapturerObserver capturerObserver) {
     this.applicationContext = applicationContext;
     this.capturerObserver = capturerObserver;
     this.surfaceHelper = surfaceTextureHelper;
